@@ -1,0 +1,12 @@
+{
+  "id": "1770292914390-6m0w29yak",
+  "prompt": "| Feature                | Description                              |\n| ---------------------- | ---------------------------------------- |\n| GitHub Storage     | All prompts & images stored in your repo |\n| Infinite Scroll    | Smooth loading as you scroll             |\n| 2MB Image Limit    | Validation for all uploads               |\n| Image Formats Only | JPEG, PNG, GIF, WebP, BMP, SVG           |\n| Copy Prompt        | One-click with visual feedback           |\n| Download Reference | Save reference images                    |\n| AI Tool Badge      | Shows which tool was used                |\n| Social Links       | Instagram, Discord, Telegram             |\n| Responsive         | Works on desktop & mobile                |\n| Creator Credits    | Your name & socials everywhere           |\n",
+  "finalImage": "https://raw.githubusercontent.com/BraechSpite/ZaynPrompts/main/Prompts/images/1770292914390-6m0w29yak-final.jpg",
+  "author": "Sarah",
+  "instagram": "zaynn.abbasi",
+  "discord": "zayn.abbasi",
+  "telegram": "Zayn_Armann",
+  "aiTool": "midjourney",
+  "createdAt": "2026-02-05T12:01:54.390Z",
+  "likes": 0
+}
